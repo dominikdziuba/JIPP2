@@ -12,25 +12,25 @@ struct samochod{
 };
 int main()
 {
-    samochod opel1 ={"Subaru","Impreza",2010,"niebieski"};
-    samochod opel2 ={"Vw","Golf",2013,"bialy"};
-    samochod opel3 ={"Opel","Corsa",2017,"srebrny"};
-    samochod opel4 ={"Audi","RS7",2020,"zielony"};
+    samochod sam1 ={"Subaru","Impreza",2010,"niebieski"};
+    samochod sam2 ={"Vw","Golf",2013,"bialy"};
+    samochod sam3 ={"Opel","Corsa",2017,"srebrny"};
+    samochod sam4 ={"Audi","RS7",2020,"zielony"};
 
     cout << "Marka\tModel \tRok produkcji \tKolor" << endl;
     cout << "----------------------------------" << endl;
 
-    cout<<opel1.marka<<" "<<opel1.model<<" "<<opel1.rok_produkcji
-        <<" "<<opel1.kolor<<" ";
+    cout<<sam1.marka<<" "<<sam1.model<<" "<<sam1.rok_produkcji
+        <<" "<<sam1.kolor<<" ";
     cout<<endl;
-    cout<<opel2.marka<<" "<<opel2.model<<" "<<opel2.rok_produkcji
-        <<" "<<opel2.kolor<<" ";
+    cout<<sam2.marka<<" "<<sam2.model<<" "<<sam2.rok_produkcji
+        <<" "<<sam2.kolor<<" ";
     cout<<endl;
-    cout<<opel3.marka<<" "<<opel3.model<<" "<<opel3.rok_produkcji
-        <<" "<<opel3.kolor<<" ";
+    cout<<sam3.marka<<" "<<sam3.model<<" "<<sam3.rok_produkcji
+        <<" "<<sam3.kolor<<" ";
     cout<<endl;
-    cout<<opel4.marka<<" "<<opel4.model<<" "<<opel4.rok_produkcji
-        <<" "<<opel4.kolor<<" ";
+    cout<<sam4.marka<<" "<<sam4.model<<" "<<sam4.rok_produkcji
+        <<" "<<sam4.kolor<<" ";
     cout<<endl;
 
     return 0;
