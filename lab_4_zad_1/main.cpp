@@ -32,6 +32,7 @@ int main()
     cout<<endl;
     cout<<sam4.marka<<" | "<<sam4.model<<" | "<<sam4.rok_produkcji
         <<" | "<<sam4.kolor;
+    cout<<endl;
 
     return 0;
 }
