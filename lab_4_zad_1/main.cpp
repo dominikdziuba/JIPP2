@@ -20,18 +20,18 @@ int main()
     cout << "Marka\tModel \tRok produkcji \tKolor" << endl;
     cout << "----------------------------------" << endl;
 
-    cout<<sam1.marka<<" "<<sam1.model<<" "<<sam1.rok_produkcji
-        <<" "<<sam1.kolor<<" ";
+
+    cout<<sam1.marka<<" | "<<sam1.model<<" | "<<sam1.rok_produkcji
+        <<" | "<<sam1.kolor;
     cout<<endl;
-    cout<<sam2.marka<<" "<<sam2.model<<" "<<sam2.rok_produkcji
-        <<" "<<sam2.kolor<<" ";
+    cout<<sam2.marka<<" | "<<sam2.model<<" | "<<sam2.rok_produkcji
+        <<" | "<<sam2.kolor;
     cout<<endl;
-    cout<<sam3.marka<<" "<<sam3.model<<" "<<sam3.rok_produkcji
-        <<" "<<sam3.kolor<<" ";
+    cout<<sam3.marka<<" | "<<sam3.model<<" | "<<sam3.rok_produkcji
+        <<" | "<<sam3.kolor;
     cout<<endl;
-    cout<<sam4.marka<<" "<<sam4.model<<" "<<sam4.rok_produkcji
-        <<" "<<sam4.kolor<<" ";
-    cout<<endl;
+    cout<<sam4.marka<<" | "<<sam4.model<<" | "<<sam4.rok_produkcji
+        <<" | "<<sam4.kolor;
 
     return 0;
 }
