@@ -1,0 +1,2 @@
+5,krowodrza gorka,wzgorza krzeslawickie,firma1
+50,krowodrza gorka,kurdwanow,firma2
