@@ -1,0 +1,4 @@
+5,krowodrza gorka,wzgorza krzeslawickie,firma1
+50,krowodrza gorka,kurdwanow,firma2
+139,mydlniki wapiennik,kombinat,firma1
+501,bulwarowa,chelmonskiego petla,firma2
