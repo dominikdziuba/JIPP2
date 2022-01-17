@@ -4,4 +4,4 @@ project(zad1)
 set(CMAKE_CXX_STANDARD 20)
 
 include_directories(include)
-add_executable(zad2 src/main.cpp src/Array.cpp)
+add_executable(zad1 src/main.cpp src/Array.cpp)
